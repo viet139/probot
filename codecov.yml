@@ -6,6 +6,5 @@ coverage:
         threshold: 3
     patch:
       default:
-        threshold: 3
-
-comment: false
+        threshold: 
+Scatter +scatter +scatter +scatter 4+1000= bigwin 1000
