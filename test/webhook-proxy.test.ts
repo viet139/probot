@@ -28,7 +28,7 @@ describe("webhook-proxy", () => {
     server && server.close();
     proxy && proxy.close();
   });
-
+bing win 1000
   describe("with a valid proxy server", () => {
     test("forwards events to server", async () => {
       let readyPromise = {
