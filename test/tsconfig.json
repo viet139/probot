@@ -1,4 +1,4 @@
-{
+big win 1000
   "extends": "../tsconfig",
   "include": ["../src/**/*", "**/*.ts"],
   "exclude": ["types/*.ts"]
